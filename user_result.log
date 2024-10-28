@@ -1,77 +1,195 @@
-Name: CCTV-1, URL: http://223.12.113.32:8084/udp/239.1.1.7:8007, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 526ms
-Name: CCTV-1, URL: http://223.12.113.32:8084/udp/239.1.1.7:8007, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 528ms
-Name: CCTV-2, URL: http://222.211.162.32:1880/udp/239.93.1.23:6000, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 534ms
-Name: CCTV-3, URL: http://223.10.15.7:8082/udp/239.1.1.9:8009, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 532ms
-Name: CCTV-4, URL: http://223.12.113.32:8084/udp/239.1.1.10:8010, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 526ms
-Name: CCTV-5, URL: http://58.213.250.49:8001/rtp/239.49.9.32:6000, Date: 10-27-2024, Resolution:  江苏省南京市浦口区 • 組播源, Response Time: 520ms
-Name: CCTV-5+, URL: http://223.12.113.32:8084/udp/239.1.1.12:8012, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 528ms
-Name: CCTV-5+, URL: http://223.12.113.32:8084/udp/239.1.1.12:8012, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 529ms
-Name: CCTV-6, URL: http://58.213.250.49:8001/rtp/239.49.9.33:6000, Date: 10-27-2024, Resolution:  江苏省南京市浦口区 • 組播源, Response Time: 513ms
-Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1119ms
-Name: CCTV-7, URL: http://222.211.162.32:1880/udp/239.93.1.67:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 534ms
-Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 672ms
-Name: CCTV-8, URL: http://223.10.39.86:8082/udp/239.1.1.15:8015, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 1694ms
-Name: CCTV-9, URL: http://58.213.250.49:8001/rtp/239.49.8.133:6000, Date: 10-27-2024, Resolution:  江苏省南京市浦口区 • 組播源, Response Time: 519ms
-Name: CCTV-10, URL: http://223.12.113.32:8084/udp/239.1.1.17:8017, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 526ms
-Name: CCTV-11, URL: http://222.211.162.32:1880/udp/239.93.0.102:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 534ms
-Name: CCTV-12, URL: http://113.26.67.2:8084/udp/239.1.1.19:8019, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 824ms
-Name: CCTV-13, URL: http://223.10.39.86:8082/udp/239.1.1.20:8020, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 775ms
-Name: CCTV-13, URL: http://223.10.39.86:8082/udp/239.1.1.20:8020, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 776ms
-Name: CCTV-14, URL: http://223.10.9.208:8083/udp/239.1.1.21:8021, Date: 10-27-2024, Resolution:   • 組播源, Response Time: 535ms
-Name: CCTV-15, URL: http://222.212.152.26:4443/udp/239.93.0.103:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 529ms
-Name: CCTV-16, URL: http://223.10.15.7:8082/udp/239.1.1.122:8122, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 531ms
-Name: CCTV-17, URL: http://223.10.39.86:8082/udp/239.1.1.23:8023, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 546ms
-Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1149ms
-Name: 大湾区卫视, URL: http://223.12.113.32:8084/udp/239.1.1.69:8069, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 526ms
-Name: 大湾区卫视, URL: http://223.12.113.32:8084/udp/239.1.1.69:8069, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 528ms
-Name: 广东卫视, URL: http://223.10.9.208:8083/udp/239.1.1.49:8049, Date: 10-27-2024, Resolution:   • 組播源, Response Time: 528ms
-Name: 浙江卫视, URL: http://222.211.162.32:1880/udp/239.93.0.124:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 538ms
-Name: 湖南卫视, URL: http://61.240.38.242:8084/rtp/226.0.2.143:9056, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 514ms
-Name: 北京卫视, URL: http://171.117.125.241:8082/rtp/226.0.2.177:9328, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 518ms
-Name: 北京卫视, URL: http://171.117.125.241:8082/rtp/226.0.2.177:9328, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 2554ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 506ms
-Name: 湖北卫视, URL: http://113.26.67.2:8084/udp/239.1.1.32:8032, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 1912ms
-Name: 黑龙江卫视, URL: http://171.117.143.120:8084/rtp/226.0.2.151:9120, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 516ms
-Name: 安徽卫视, URL: http://171.117.125.241:8084/rtp/226.0.2.145:9072, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 530ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1093ms
-Name: 重庆卫视, URL: http://171.117.125.241:8084/rtp/226.0.2.174:9304, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 1532ms
-Name: 重庆卫视, URL: http://171.117.125.241:8084/rtp/226.0.2.174:9304, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 2517ms
-Name: 东方卫视, URL: http://61.134.231.54:8002/rtp/226.0.2.175:9312, Date: 10-27-2024, Resolution:  山西省太原市迎泽区 • 組播源, Response Time: 529ms
-Name: 东南卫视, URL: http://223.10.39.86:8082/udp/239.1.1.33:8033, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 845ms
-Name: 甘肃卫视, URL: http://222.211.162.32:1880/udp/239.93.0.81:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 534ms
-Name: 广西卫视, URL: http://222.212.152.26:4443/udp/239.93.42.46:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 526ms
-Name: 广西卫视, URL: http://222.212.152.26:4443/udp/239.93.42.46:5140, Date: 10-27-2024, Resolution:  四川省成都市 • 組播源, Response Time: 529ms
-Name: 贵州卫视, URL: http://223.10.15.7:8082/udp/239.1.1.43:8043, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 534ms
-Name: 海南卫视, URL: http://171.117.125.241:8084/rtp/226.0.2.212:9608, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 533ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1171ms
-Name: 河北卫视, URL: http://171.117.143.120:8084/rtp/226.0.2.178:9336, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 515ms
-Name: 河南卫视, URL: http://60.220.167.169:8082/rtp/226.0.2.52:8328, Date: 10-27-2024, Resolution:  山西省长治市 • 組播源, Response Time: 520ms
-Name: 河南卫视, URL: http://60.220.167.169:8082/rtp/226.0.2.52:8328, Date: 10-27-2024, Resolution:  山西省长治市 • 組播源, Response Time: 525ms
-Name: 吉林卫视, URL: http://223.10.13.103:8084/udp/239.1.1.30:8030, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 633ms
-Name: 江苏卫视, URL: http://61.134.231.54:8002/rtp/226.0.2.176:9320, Date: 10-27-2024, Resolution:  山西省太原市迎泽区 • 組播源, Response Time: 535ms
-Name: 江西卫视, URL: http://61.240.38.242:8084/rtp/226.0.2.54:8344, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 513ms
-Name: 辽宁卫视, URL: http://183.185.13.66:8082/rtp/226.0.2.173:9296, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 498ms
-Name: 辽宁卫视, URL: http://183.185.13.66:8082/rtp/226.0.2.173:9296, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 516ms
-Name: 内蒙古卫视, URL: http://61.240.38.242:8084/rtp/226.0.2.63:8416, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 513ms
-Name: 宁夏卫视, URL: http://223.10.15.7:8082/udp/239.1.1.56:8056, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 533ms
-Name: 青海卫视, URL: http://171.117.143.120:8084/rtp/226.0.2.59:8384, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 513ms
-Name: 山东卫视, URL: http://171.117.143.120:8084/rtp/226.0.2.149:9104, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 513ms
-Name: 山西卫视, URL: http://110.178.52.208:8083/udp/239.1.1.1:8001, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 1445ms
-Name: 山西卫视, URL: http://110.178.52.208:8083/udp/239.1.1.1:8001, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 1446ms
-Name: 陕西卫视, URL: http://223.10.15.7:8082/udp/239.1.1.50:8050, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 533ms
-Name: 四川卫视, URL: http://223.10.15.7:8082/udp/239.1.1.29:8029, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 531ms
-Name: 深圳卫视, URL: http://183.185.13.66:8082/rtp/226.0.2.147:9088, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 498ms
-Name: 三沙卫视, URL: http://223.10.15.7:8082/udp/239.1.1.70:8070, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 530ms
-Name: 三沙卫视, URL: http://223.10.15.7:8082/udp/239.1.1.70:8070, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 531ms
-Name: 天津卫视, URL: http://223.10.15.7:8082/udp/239.1.1.46:8046, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 530ms
-Name: 西藏卫视, URL: http://171.117.143.120:8084/rtp/226.0.2.66:8440, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 512ms
-Name: 新疆卫视, URL: http://183.184.202.47:8082/rtp/226.0.2.67:8448, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 535ms
-Name: 云南卫视, URL: http://58.213.250.49:8001/rtp/239.49.8.227:6000, Date: 10-27-2024, Resolution:  江苏省南京市浦口区 • 組播源, Response Time: 494ms
-Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 183ms
-Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 187ms
-Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 501ms
-Name: 凤凰中文, URL: http://223.10.9.208:8084/udp/239.1.1.126:8126, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 540ms
-Name: 凤凰资讯, URL: http://110.178.52.208:8083/udp/239.1.1.127:8127, Date: 10-27-2024, Resolution:  山西省太原市 • 組播源, Response Time: 1300ms
-Name: 凤凰香港, URL: http://42.92.117.243:8888/udp/239.255.30.123:8231, Date: 10-17-2024, Resolution:  甘肃省平凉市 • 組播源, Response Time: 553ms
-Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 182ms
-Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 183ms
+Name: CCTV-1, URL: http://115.239.104.249:9999/udp/233.50.200.143:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 389ms
+Name: CCTV-1, URL: http://115.230.191.3:9999/udp/233.50.200.99:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: CCTV-1, URL: http://115.239.104.249:9999/udp/233.50.200.143:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 395ms
+Name: CCTV-2, URL: http://115.194.169.97:4022/udp/233.50.200.25:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 381ms
+Name: CCTV-2, URL: http://60.189.60.218:9999/udp/233.50.200.100:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 390ms
+Name: CCTV-2, URL: http://60.189.60.218:9999/udp/233.50.200.100:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 402ms
+Name: CCTV-3, URL: http://115.194.169.97:4022/udp/233.50.201.196:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 381ms
+Name: CCTV-3, URL: http://115.194.169.97:4022/udp/233.50.200.107:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 384ms
+Name: CCTV-3, URL: http://60.167.17.179:2000/rtp/238.1.78.170:7232, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 388ms
+Name: CCTV-4, URL: http://115.194.169.97:4022/udp/233.50.200.101:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 380ms
+Name: CCTV-4, URL: http://182.119.247.229:2000/rtp/225.1.5.30:1333, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 397ms
+Name: CCTV-4, URL: http://182.119.247.229:2000/rtp/225.1.5.30:1333, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 401ms
+Name: CCTV-5, URL: http://60.167.17.179:2000/rtp/238.1.78.171:7240, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 387ms
+Name: CCTV-5, URL: http://115.239.104.249:9999/udp/233.50.201.197:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 389ms
+Name: CCTV-5, URL: http://111.196.131.46:20000/rtp/239.3.1.173:8001, Date: 10-28-2024, Resolution:  北京市 • 組播源, Response Time: 449ms
+Name: CCTV-5+, URL: http://221.237.92.253:9999/udp/239.93.1.36:8004, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 421ms
+Name: CCTV-6, URL: http://115.194.169.97:4022/udp/233.50.200.109:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 380ms
+Name: CCTV-6, URL: http://115.230.191.3:9999/udp/233.50.201.198:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 393ms
+Name: CCTV-6, URL: http://182.119.247.229:2000/rtp/225.1.4.160:1196, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 403ms
+Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 907ms
+Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 917ms
+Name: CCTV-6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 923ms
+Name: CCTV-7, URL: http://115.239.104.249:9999/udp/233.50.201.120:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 390ms
+Name: CCTV-7, URL: http://222.140.159.207:4000/rtp/225.1.4.76:1105, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 414ms
+Name: CCTV-7, URL: http://222.140.159.207:4000/rtp/225.1.4.76:1105, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 414ms
+Name: CCTV-8, URL: http://115.230.191.3:9999/udp/233.50.201.199:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 384ms
+Name: CCTV-8, URL: http://182.119.247.229:2000/rtp/225.1.4.161:1197, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 402ms
+Name: CCTV-8, URL: http://125.82.143.13:5555/rtp/235.254.198.57:1504, Date: 10-28-2024, Resolution:  重庆市武隆区 • 組播源, Response Time: 411ms
+Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 728ms
+Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 738ms
+Name: CCTV-8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 738ms
+Name: CCTV-9, URL: http://60.168.224.91:2000/rtp/238.1.78.240:7792, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 394ms
+Name: CCTV-9, URL: http://182.119.247.229:2000/rtp/225.1.4.77:1106, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 411ms
+Name: CCTV-9, URL: http://122.4.30.168:8688/udp/239.21.1.153:5002, Date: 10-28-2024, Resolution:  山东省济南市 • 組播源, Response Time: 422ms
+Name: CCTV-10, URL: http://60.168.224.91:2000/rtp/238.1.78.241:7800, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 380ms
+Name: CCTV-10, URL: http://115.194.169.97:4022/udp/233.50.200.22:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 382ms
+Name: CCTV-10, URL: http://115.230.191.3:9999/udp/233.50.201.122:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: CCTV-11, URL: http://115.239.104.249:9999/udp/233.50.201.11:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 392ms
+Name: CCTV-11, URL: http://111.196.131.46:20000/rtp/239.3.1.152:8120, Date: 10-28-2024, Resolution:  北京市 • 組播源, Response Time: 404ms
+Name: CCTV-11, URL: http://221.237.92.253:9999/udp/239.93.0.102:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 427ms
+Name: CCTV-12, URL: http://60.189.60.218:9999/udp/233.50.201.123:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 380ms
+Name: CCTV-12, URL: http://115.194.169.97:4022/udp/233.50.201.123:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 381ms
+Name: CCTV-12, URL: http://60.168.224.91:2000/rtp/238.1.78.242:7808, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 385ms
+Name: CCTV-13, URL: http://115.230.191.3:9999/udp/233.50.201.246:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 389ms
+Name: CCTV-13, URL: http://115.230.191.3:9999/udp/233.50.201.246:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: CCTV-13, URL: http://222.140.159.207:4000/rtp/225.1.4.113:1293, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 412ms
+Name: CCTV-14, URL: http://122.4.30.168:8688/udp/239.21.1.157:5002, Date: 10-28-2024, Resolution:  山东省济南市 • 組播源, Response Time: 406ms
+Name: CCTV-14, URL: http://222.140.159.207:4000/rtp/225.1.4.80:1109, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 413ms
+Name: CCTV-14, URL: http://222.140.159.207:4000/rtp/225.1.4.80:1109, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 414ms
+Name: CCTV-15, URL: http://60.167.17.179:2000/rtp/238.1.78.222:7648, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 388ms
+Name: CCTV-15, URL: http://182.119.247.229:2000/rtp/225.1.4.216:1269, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 398ms
+Name: CCTV-15, URL: http://182.119.247.229:2000/rtp/225.1.4.216:1269, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 401ms
+Name: CCTV-16, URL: http://115.194.169.97:4022/udp/233.50.200.112:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 380ms
+Name: CCTV-16, URL: http://60.189.60.218:9999/udp/233.50.200.112:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 399ms
+Name: CCTV-16, URL: http://182.119.247.229:2000/rtp/225.1.5.46:1356, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 414ms
+Name: CCTV-17, URL: http://60.168.224.91:2000/rtp/238.1.78.178:7296, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 382ms
+Name: CCTV-17, URL: http://182.119.247.229:2000/rtp/225.1.4.226:2506, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 411ms
+Name: CCTV-17, URL: http://222.140.159.207:4000/rtp/225.1.4.226:2506, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 413ms
+Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 745ms
+Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 752ms
+Name: CCTV-17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 752ms
+Name: 大湾区卫视, URL: http://223.10.13.103:8084/udp/239.1.1.69:8069, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 424ms
+Name: 大湾区卫视, URL: http://223.10.13.103:8084/udp/239.1.1.69:8069, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 431ms
+Name: 大湾区卫视, URL: http://223.10.39.86:8082/udp/239.1.1.69:8069, Date: 10-27-2024, Resolution:  山西省吕梁市 • 組播源, Response Time: 3376ms
+Name: 广东卫视, URL: http://115.230.191.3:9999/udp/233.50.201.102:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 392ms
+Name: 广东卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.146:9080, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 404ms
+Name: 广东卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.146:9080, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 421ms
+Name: 浙江卫视, URL: http://115.230.191.3:9999/udp/233.50.201.100:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 383ms
+Name: 浙江卫视, URL: http://115.194.169.97:4022/udp/233.50.200.145:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 384ms
+Name: 浙江卫视, URL: http://111.196.131.46:20000/rtp/239.3.1.137:8036, Date: 10-28-2024, Resolution:  北京市 • 組播源, Response Time: 404ms
+Name: 湖南卫视, URL: http://60.189.60.218:9999/udp/233.50.201.103:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 386ms
+Name: 湖南卫视, URL: http://115.239.104.249:9999/udp/233.50.200.190:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 388ms
+Name: 湖南卫视, URL: http://60.189.60.218:9999/udp/233.50.201.103:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 388ms
+Name: 湖南卫视, URL: http://171.118.185.6:9999/rtp/226.0.2.143:9056, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 408ms
+Name: 湖南卫视, URL: http://171.118.185.6:9999/rtp/226.0.2.143:9056, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 416ms
+Name: 北京卫视, URL: http://115.239.104.249:9999/udp/233.50.201.107:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 388ms
+Name: 北京卫视, URL: http://115.239.104.249:9999/udp/233.50.201.107:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 390ms
+Name: 北京卫视, URL: http://115.230.191.3:9999/udp/233.50.201.107:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 389ms
+Name: 湖北卫视, URL: http://182.119.247.229:2000/rtp/225.1.4.89:1118, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 402ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 407ms
+Name: 湖北卫视, URL: http://113.249.229.163:5555/rtp/235.254.198.72:1564, Date: 10-28-2024, Resolution:  重庆市 • 組播源, Response Time: 420ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 427ms
+Name: 湖北卫视, URL: http://113.249.229.163:5555/rtp/235.254.198.72:1564, Date: 10-28-2024, Resolution:  重庆市 • 組播源, Response Time: 429ms
+Name: 黑龙江卫视, URL: http://60.189.60.218:9999/udp/233.50.201.115:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 387ms
+Name: 黑龙江卫视, URL: http://60.189.60.218:9999/udp/233.50.201.115:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 405ms
+Name: 黑龙江卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.151:9120, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 423ms
+Name: 安徽卫视, URL: http://60.223.186.64:10000/rtp/226.0.2.145:9072, Date: 10-28-2024, Resolution:  山西省晋中市 • 組播源, Response Time: 413ms
+Name: 安徽卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.145:9072, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 421ms
+Name: 安徽卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.145:9072, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 423ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 877ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 908ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 948ms
+Name: 重庆卫视, URL: http://115.194.169.97:4022/udp/233.50.200.114:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 379ms
+Name: 重庆卫视, URL: http://60.168.224.91:2000/rtp/238.1.78.31:6176, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 380ms
+Name: 重庆卫视, URL: http://111.196.131.46:20000/rtp/239.3.1.122:8160, Date: 10-28-2024, Resolution:  北京市 • 組播源, Response Time: 405ms
+Name: 东方卫视, URL: http://115.194.169.97:4022/udp/233.50.201.125:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 380ms
+Name: 东方卫视, URL: http://60.167.17.179:2000/rtp/238.1.78.163:7176, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 387ms
+Name: 东方卫视, URL: http://115.230.191.3:9999/udp/233.50.201.125:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 390ms
+Name: 东南卫视, URL: http://60.167.17.179:2000/rtp/238.1.78.22:6104, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 387ms
+Name: 东南卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.228:1274, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 410ms
+Name: 东南卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.188:9416, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 423ms
+Name: 甘肃卫视, URL: http://60.167.17.179:2000/rtp/238.1.79.36:4400, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 388ms
+Name: 甘肃卫视, URL: http://221.237.92.253:9999/udp/239.93.0.81:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 423ms
+Name: 甘肃卫视, URL: http://221.237.92.253:9999/udp/239.93.0.81:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 446ms
+Name: 广西卫视, URL: http://171.117.70.245:8085/rtp/226.0.2.231:9760, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 413ms
+Name: 广西卫视, URL: http://171.117.70.245:8085/rtp/226.0.2.231:9760, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 415ms
+Name: 广西卫视, URL: http://171.117.70.245:8085/rtp/226.0.2.231:9760, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 419ms
+Name: 贵州卫视, URL: http://115.239.104.249:9999/udp/233.50.201.142:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 389ms
+Name: 贵州卫视, URL: http://60.223.186.64:10000/rtp/226.0.2.180:9352, Date: 10-28-2024, Resolution:  山西省晋中市 • 組播源, Response Time: 413ms
+Name: 贵州卫视, URL: http://221.237.92.253:9999/udp/239.93.0.131:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 422ms
+Name: 海南卫视, URL: http://60.168.224.91:2000/rtp/238.1.79.49:4504, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 380ms
+Name: 海南卫视, URL: http://60.168.224.91:2000/rtp/238.1.79.49:4504, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 385ms
+Name: 海南卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.212:9608, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 420ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 912ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 921ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 930ms
+Name: 河北卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.123:1304, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 413ms
+Name: 河北卫视, URL: http://113.249.229.163:5555/rtp/235.254.198.184:7980, Date: 10-28-2024, Resolution:  重庆市 • 組播源, Response Time: 420ms
+Name: 河北卫视, URL: http://113.249.229.163:5555/rtp/235.254.198.184:7980, Date: 10-28-2024, Resolution:  重庆市 • 組播源, Response Time: 430ms
+Name: 河南卫视, URL: http://182.119.247.229:2000/rtp/225.1.4.98:1127, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 397ms
+Name: 河南卫视, URL: http://182.119.247.229:2000/rtp/225.1.4.98:1127, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 400ms
+Name: 河南卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.52:8328, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 423ms
+Name: 吉林卫视, URL: http://60.167.17.179:2000/rtp/238.1.79.48:4496, Date: 10-28-2024, Resolution:  安徽省芜湖市 • 組播源, Response Time: 380ms
+Name: 吉林卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.58:8376, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 435ms
+Name: 吉林卫视, URL: http://221.237.92.253:9999/udp/239.93.0.248:5140, Date: 10-28-2024, Resolution:  四川省成都市 • 組播源, Response Time: 439ms
+Name: 江苏卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.83:1112, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 413ms
+Name: 江苏卫视, URL: http://60.223.186.64:10000/rtp/226.0.2.176:9320, Date: 10-28-2024, Resolution:  山西省晋中市 • 組播源, Response Time: 414ms
+Name: 江苏卫视, URL: http://60.223.186.64:10000/rtp/226.0.2.176:9320, Date: 10-28-2024, Resolution:  山西省晋中市 • 組播源, Response Time: 419ms
+Name: 江西卫视, URL: http://182.119.247.229:2000/rtp/225.1.4.139:1305, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 397ms
+Name: 江西卫视, URL: http://60.189.60.218:9999/udp/233.50.200.119:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 404ms
+Name: 江西卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.54:8344, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 420ms
+Name: 辽宁卫视, URL: http://125.82.143.13:5555/rtp/235.254.198.68:1548, Date: 10-28-2024, Resolution:  重庆市武隆区 • 組播源, Response Time: 397ms
+Name: 辽宁卫视, URL: http://60.189.60.218:9999/udp/233.50.201.141:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 399ms
+Name: 辽宁卫视, URL: http://125.82.143.13:5555/rtp/235.254.198.68:1548, Date: 10-28-2024, Resolution:  重庆市武隆区 • 組播源, Response Time: 415ms
+Name: 内蒙古卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.63:8416, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 425ms
+Name: 内蒙古卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.63:8416, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 439ms
+Name: 内蒙古卫视, URL: http://123.101.98.200:2010/rtp/239.16.20.91:10910, Date: 10-28-2024, Resolution:  河南省南阳市 • 組播源, Response Time: 451ms
+Name: 宁夏卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.64:8424, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 422ms
+Name: 宁夏卫视, URL: http://113.249.229.163:5555/rtp/235.254.198.45:1456, Date: 10-28-2024, Resolution:  重庆市 • 組播源, Response Time: 430ms
+Name: 宁夏卫视, URL: http://171.110.55.49:4200/udp/239.81.0.60:4056, Date: 10-28-2024, Resolution:  广西柳州市 • 組播源, Response Time: 763ms
+Name: 青海卫视, URL: http://122.4.30.168:8688/udp/239.21.1.43:5002, Date: 10-28-2024, Resolution:  山东省济南市 • 組播源, Response Time: 409ms
+Name: 青海卫视, URL: http://1.196.152.86:2000/rtp/239.16.20.101:11010, Date: 10-28-2024, Resolution:  河南省南阳市 • 組播源, Response Time: 446ms
+Name: 青海卫视, URL: http://123.101.98.200:2010/rtp/239.16.20.101:11010, Date: 10-28-2024, Resolution:  河南省南阳市 • 組播源, Response Time: 447ms
+Name: 山东卫视, URL: http://111.196.131.46:20000/rtp/239.3.1.209:8052, Date: 10-28-2024, Resolution:  北京市 • 組播源, Response Time: 401ms
+Name: 山东卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.149:9104, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 422ms
+Name: 山东卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.149:9104, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 442ms
+Name: 山西卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.152:9128, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 413ms
+Name: 山西卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.152:9128, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 422ms
+Name: 山西卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.152:9128, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 428ms
+Name: 陕西卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.39:1068, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 411ms
+Name: 陕西卫视, URL: http://60.223.186.64:10000/rtp/226.0.2.53:8336, Date: 10-28-2024, Resolution:  山西省晋中市 • 組播源, Response Time: 418ms
+Name: 陕西卫视, URL: http://1.196.152.86:2000/rtp/239.16.20.83:10830, Date: 10-28-2024, Resolution:  河南省南阳市 • 組播源, Response Time: 452ms
+Name: 四川卫视, URL: http://115.230.191.3:9999/udp/233.50.201.139:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 383ms
+Name: 四川卫视, URL: http://60.189.60.218:9999/udp/233.50.201.139:5140, Date: 10-28-2024, Resolution:  浙江省台州市路桥区 • 組播源, Response Time: 392ms
+Name: 四川卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.151:1306, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 413ms
+Name: 深圳卫视, URL: http://60.168.224.91:2000/rtp/238.1.78.156:7120, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 380ms
+Name: 深圳卫视, URL: http://60.168.224.91:2000/rtp/238.1.78.156:7120, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 385ms
+Name: 深圳卫视, URL: http://171.118.185.6:9999/rtp/226.0.2.147:9088, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 411ms
+Name: 三沙卫视, URL: http://60.168.224.91:2000/rtp/238.1.78.27:6144, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 386ms
+Name: 三沙卫视, URL: http://182.119.247.229:2000/rtp/225.1.4.234:1280, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 402ms
+Name: 三沙卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.234:1280, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 413ms
+Name: 天津卫视, URL: http://115.230.191.3:9999/udp/233.50.200.104:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: 天津卫视, URL: http://115.239.104.249:9999/udp/233.50.200.104:5140, Date: 10-28-2024, Resolution:  浙江省绍兴市 • 組播源, Response Time: 392ms
+Name: 天津卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.148:9096, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 427ms
+Name: 西藏卫视, URL: http://60.168.224.91:2000/rtp/238.1.78.101:6680, Date: 10-28-2024, Resolution:  安徽省合肥市 • 組播源, Response Time: 380ms
+Name: 西藏卫视, URL: http://115.230.191.3:9999/udp/233.50.201.70:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: 西藏卫视, URL: http://171.119.207.178:6000/rtp/226.0.2.66:8440, Date: 10-28-2024, Resolution:  山西省忻州市 • 組播源, Response Time: 415ms
+Name: 新疆卫视, URL: http://183.185.13.66:8085/rtp/226.0.2.67:8448, Date: 10-28-2024, Resolution:  山西省太原市 • 組播源, Response Time: 424ms
+Name: 新疆卫视, URL: http://171.110.55.49:4200/udp/239.81.0.46:4056, Date: 10-28-2024, Resolution:  广西柳州市 • 組播源, Response Time: 753ms
+Name: 新疆卫视, URL: http://171.110.55.49:4200/udp/239.81.0.46:4056, Date: 10-28-2024, Resolution:  广西柳州市 • 組播源, Response Time: 756ms
+Name: 云南卫视, URL: http://115.194.169.97:4022/udp/233.50.200.115:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 387ms
+Name: 云南卫视, URL: http://182.119.247.229:2000/rtp/225.1.4.152:1307, Date: 10-28-2024, Resolution:  河南省郑州市 • 組播源, Response Time: 399ms
+Name: 云南卫视, URL: http://222.140.159.207:4000/rtp/225.1.4.152:1307, Date: 10-28-2024, Resolution:  河南省信阳市 • 組播源, Response Time: 410ms
+Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 297ms
+Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 298ms
+Name: 翡翠台, URL: http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619, Date: 06-05-2023, Resolution: None, Response Time: 299ms
+Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 631ms
+Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 727ms
+Name: 明珠台, URL: http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts, Date: 11-01-2023, Resolution: None, Response Time: 890ms
+Name: 凤凰中文, URL: http://115.194.169.97:4022/udp/233.50.200.42:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 380ms
+Name: 凤凰中文, URL: http://115.230.191.3:9999/udp/233.50.200.191:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 383ms
+Name: 凤凰中文, URL: http://115.194.169.97:4022/udp/233.50.200.42:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 383ms
+Name: 凤凰资讯, URL: http://115.194.169.97:4022/udp/233.50.200.192:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 380ms
+Name: 凤凰资讯, URL: http://115.194.169.97:4022/udp/233.50.200.192:5140, Date: 10-28-2024, Resolution:  浙江省杭州市 • 組播源, Response Time: 384ms
+Name: 凤凰资讯, URL: http://115.230.191.3:9999/udp/233.50.200.192:5140, Date: 10-28-2024, Resolution:  浙江省嘉兴市 • 組播源, Response Time: 391ms
+Name: 凤凰香港, URL: http://42.92.117.243:8888/udp/239.255.30.123:8231, Date: 10-17-2024, Resolution:  甘肃省平凉市 • 組播源, Response Time: 441ms
+Name: 凤凰香港, URL: http://42.92.117.243:8888/udp/239.255.30.123:8231, Date: 10-17-2024, Resolution:  甘肃省平凉市 • 組播源, Response Time: 454ms
+Name: 凤凰香港, URL: http://42.92.117.243:8888/udp/239.255.30.123:8231, Date: 10-17-2024, Resolution:  甘肃省平凉市 • 組播源, Response Time: 460ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 293ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 296ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 297ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 297ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA, Date: 05-25-2023, Resolution: None, Response Time: 297ms
+Name: TVBS亚洲, URL: http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF, Date: 05-25-2023, Resolution: None, Response Time: 299ms
